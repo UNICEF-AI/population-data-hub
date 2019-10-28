@@ -25,6 +25,11 @@ Figure 1. Examples of  the issues in Facebook and Worldpop datasets in Nord Kibu
 
 Figure 2 shows more examples where those data fails to realistically represent population distribution 
 ![figure2](image/Picture2.png)
+![figure3](image/Picture3.png)
+![figure4](image/Picture4.png)
+![figure5](image/Picture5.png)
+
+
 **Future directions**
 
 We have identified some issues in currently available global gridded population datasets. It was fairly clear that due to such issues, it is not recommendable to use those datasets as is in high spatial resolution geospatial analysis. With current phase of development in geospatial data and AI algorithms, we expect more and better gridded population datasets will be introduced in the near future.  In order to make a fast applications when such data are made available, a sound methods to measure the biases and errors in the new datasets are essential. On the other hand, the development of methods to take advantage of existing datasets to minimize errors and biases are also important.
